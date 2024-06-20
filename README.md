@@ -6,3 +6,5 @@ The project is using React, Tailwind and Vite as Frameworks and an additional to
 
 
 ![alt text](movie_api.png).
+
+To see the functionality of Movies App, click on this link: https://movies-app-smoky-three.vercel.app/
